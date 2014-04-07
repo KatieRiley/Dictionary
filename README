@@ -1,0 +1,1 @@
+Takes in a txt file, and sorts them into a ‘dictionary’ of files from a.txt to z.txt depending on the first letter, before it adds to the dictionary it checks to see if the word is already there. 
